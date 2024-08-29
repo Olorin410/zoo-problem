@@ -1,0 +1,21 @@
+html {
+    background-color: #9fd3c7;
+}
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.card {
+    background-color: #ececec;
+    padding: 20px;
+    width: 20%;
+    border-radius: 8px;
+    box-shadow:0 4px 6px rgba(0, 0, 0, 0.1);
+
+}
+
+.card h2 {
+    text-align: center;
+}
